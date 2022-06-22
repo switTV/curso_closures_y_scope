@@ -1,0 +1,1 @@
+# curso_closures_y_scope
